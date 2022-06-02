@@ -22,3 +22,8 @@ The aim of the game is to shoot down enemy ships.
 - Random positioning of enemy ships
 - Locking of incorrectly positioned ships
 - At Extreme level it is possible to see where the opponent is planning to shoot
+
+## Controls
+
+- LMB - pick/place/shoot
+- RMB - rotate selected ship
