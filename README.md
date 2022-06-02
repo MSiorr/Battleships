@@ -1,5 +1,5 @@
 # Battleships
-Simple battleships game - school project
+Simple battleships game
 
 ![look](img/look.png)
 
