@@ -1,7 +1,8 @@
 # Battleships
 Simple battleships game
 
-![look](img/look.png)
+![obraz](https://user-images.githubusercontent.com/49323088/171881556-2d38a56f-1306-413e-9026-89f44a791a45.png)
+
 
 ### Test it now 
 **👉 https://msiorr.github.io/Projects/Battleships/ 👈**
