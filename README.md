@@ -4,7 +4,7 @@ Simple battleships game
 ![look](img/look.png)
 
 ### Test it now 
-**👉 [https://msiorr.github.io/Projects/15-Puzzle/](https://msiorr.github.io/Projects/Battleships/) 👈**
+**👉 https://msiorr.github.io/Projects/Battleships/ 👈**
 
 
 ##  Overall info
